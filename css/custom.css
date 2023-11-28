@@ -10,9 +10,24 @@ body{
 p{
     color: black;
     font-size: 3vh;
+    padding: 20px;
+    margin: 10px;
+}
+
+.card {
+    margin-bottom: 100px;
+}
+
+.container-box {
+    margin-bottom: 100px;
+}
+
+.row {
+    margin-bottom: 50px;
 }
 
 .text-center {
+
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
