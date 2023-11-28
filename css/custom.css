@@ -7,6 +7,17 @@ body{
     flex-direction: column;
 }
 
+p{
+    color: black;
+    font-size: 3vh;
+    margin-bottom: 40px;
+}
+
+.text-center {
+    margin-bottom: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 main {
     flex: 1 0 auto;
 }
