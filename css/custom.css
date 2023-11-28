@@ -10,11 +10,9 @@ body{
 p{
     color: black;
     font-size: 3vh;
-    margin-bottom: 40px;
 }
 
 .text-center {
-    margin-bottom: 50px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -43,7 +41,7 @@ header {
 }
 
 footer {
-    background-color: #3a3a3a;
+    background-color: #242424;
     
 }
 
